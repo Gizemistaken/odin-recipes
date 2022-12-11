@@ -1,0 +1,25 @@
+* {
+    color:bisque;
+
+}
+.Warning { 
+    color: red;
+}
+#tune{
+    color: black;
+    background-color: cadetblue;
+}
+
+.Main,
+.Process {
+    color: aliceblue;
+    background-color: darkolivegreen;
+
+
+}
+.subsection.header{
+    color: aqua;
+}
+.subsection#preview{
+    color: beige;
+}
